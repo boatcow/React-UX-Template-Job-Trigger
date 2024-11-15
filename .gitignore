@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+node_modules
+client/node_modules/*
+server/output/*
+data/*
+server/monitoring.db
